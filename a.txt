@@ -1,0 +1,8 @@
+//payal_prg
+#include<stdio.h>
+void main()
+{
+int s=4;
+printf("Area of square = %d", s*s);
+}
+
